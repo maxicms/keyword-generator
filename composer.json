@@ -1,0 +1,20 @@
+{
+  "name": "maxicms/keyword-generator",
+  "description": "Composer installable fork of peterkahl's multibyte keyword generator",
+  "license": "GNU Version 3",
+  "authors": [
+    {
+      "name": "Walther Lalk",
+      "email": "emailme@waltherlalk.com"
+    },
+    {
+      "name": "Maxim Kostjukevich",
+      "email": "support@maxicms.ru"
+    }
+  ],
+  "autoload": {
+    "classmap": [
+      "keyword-generator.php"
+    ]
+  }
+}
